@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 body {
     background-color: darkseagreen;
@@ -7,7 +8,18 @@ body {
 }
 img {
     width: 400px;
+    height: auto;
+    border-radius: 75%;
 }
 .headtitle {
-    font-family: monospace;
+    font-family: Lobster, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+.headtitle.mainpage {
+    font-size: 50px;
+}
+.subtitle {
+    font-family: Lobster, sans-serif;
+    font-size: 25px;
 }
