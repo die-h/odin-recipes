@@ -23,3 +23,21 @@ img {
     font-family: Lobster, sans-serif;
     font-size: 25px;
 }
+h2.subtitle{
+    font-size: 30px;
+}
+ul, ol, p {
+    font-size: 20px;
+    font-family: monospace, sans-serif;
+}
+li {
+    padding: 5px;
+}
+.homebutton {
+    font-family: Lobster, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    display:block;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
